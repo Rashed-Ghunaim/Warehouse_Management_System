@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mem_store_app/Dshboard_Layout.dart/Chemicals_Module/widgets/middle_cards.dart';
-
 import 'widgets/top_level_card.dart';
-
 class ChemicalsScreen extends StatelessWidget {
   const ChemicalsScreen({super.key});
 
